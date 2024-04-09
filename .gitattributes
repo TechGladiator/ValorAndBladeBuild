@@ -1,2 +1,2 @@
-Swordsman/** filter=lfs diff=lfs merge=lfs -text
+ValorAndBlade/** filter=lfs diff=lfs merge=lfs -text
 Engine/** filter=lfs diff=lfs merge=lfs -text
