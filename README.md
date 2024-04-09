@@ -1,2 +1,2 @@
-# SwordsmanBuild
-Public build versions of Swordsman
+# ValorAndBladeBuild
+Public development build versions of Valor & Blade
